@@ -35,6 +35,7 @@ button {
   cursor: pointer;
   box-shadow: none;
   border: none;
+  transition: 300ms;
 }
 
 .logo {
@@ -240,6 +241,10 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+}
+
+.product {
+  background-color: #fff;
 }
 
 .product-title {
